@@ -2,6 +2,8 @@
 -------------
 #### Application of GPU Environmental Delegation of Agent Perceptions
 
+> **Note:** http://dx.doi.org/10.1007/978-3-319-31447-1_5
+
 ----------
 
 ### The Obtained Flocking Dynamics
